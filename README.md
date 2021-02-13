@@ -1,4 +1,4 @@
 # Projeto Modelo DDD
 
-#EntityFramework
-#SQLSEVER
+EntityFramework
+SQLSEVER
